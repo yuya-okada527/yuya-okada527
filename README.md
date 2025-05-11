@@ -24,12 +24,22 @@
   - など
 - ミドルウェア
   - MySQL
+  - PostgreSQL
+  - OpenSearch
   - Apache Solr
   - Redis
   - DynamoDB
   - SQS
+  - StepFunctions
   - など
 - 実行基盤
   - Kubernetes
   - AWS Lambda
+  - AWS ECS
   - など
+
+## 開発経験のあるドメイン
+
+- 不動産掲載
+- 電子受発注
+- 製品管理(PIM)
