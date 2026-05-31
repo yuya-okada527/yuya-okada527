@@ -7,20 +7,28 @@
 
 - 2019年3月: 関西学院大学大学院修士修了(非CS)
 - 2019年4月: 株式会社エクサ入社
-- SIerにて、要件定義から開発・運用までの一連の流れを経験してます。
+  - SIerにて、要件定義から開発・運用までの一連の流れを経験
+- 2026年1月: 株式会社Resilire入社
+  - プロダクトエンジニアとして、サプライチェーンリスクマネジメントSaaSの開発に従事
 
 ## 使える技術
 
 - 言語
   - Python
+  - Go
   - Java
   - Ruby
   - JavaScript/TypeScript
   - など
 - フレームワーク
-  - SpringBoot
-  - Ruby on Rails
-  - Nuxt.js
+  - バックエンド
+    - SpringBoot
+    - Ruby on Rails
+    - chi
+  - フロントエンド
+    - React
+    - Vue.js
+    - Nuxt.js
   - など
 - ミドルウェア
   - MySQL
@@ -43,6 +51,7 @@
 - 不動産掲載
 - 電子受発注
 - 製品管理(PIM)
+- サプライチェーンリスクマネジメント(SCRM)
 
 ## 外部発信
 
